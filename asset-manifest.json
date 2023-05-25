@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/aroma-bumi/static/css/main.4b2a4473.css",
+    "main.js": "/aroma-bumi/static/js/main.62bb2be7.js",
+    "static/media/WhoAreWe.jpg": "/aroma-bumi/static/media/WhoAreWe.108b1481a5043b8d4a99.jpg",
+    "static/media/HangOutWithUs.jpg": "/aroma-bumi/static/media/HangOutWithUs.1641fcb965f94aec2c76.jpg",
+    "static/media/CoffeHeader.png": "/aroma-bumi/static/media/CoffeHeader.eac4ee68d13de5fce759.png",
+    "static/media/OurProducts.jpg": "/aroma-bumi/static/media/OurProducts.46eb2db98f825af147fc.jpg",
+    "static/media/Map.png": "/aroma-bumi/static/media/Map.10b2aece8e771f7756d9.png",
+    "static/media/Feed4.png": "/aroma-bumi/static/media/Feed4.ffb872de0ed3cb3753ec.png",
+    "static/media/Feed1.png": "/aroma-bumi/static/media/Feed1.fccb50ca2a01eed8d49d.png",
+    "static/media/Feed6.png": "/aroma-bumi/static/media/Feed6.56c2677dc616d1e71e67.png",
+    "static/media/Feed5.png": "/aroma-bumi/static/media/Feed5.cf1f258fa93fb63ddcfe.png",
+    "static/media/Feed2.png": "/aroma-bumi/static/media/Feed2.b587628419118433a3b1.png",
+    "static/media/Feed3.png": "/aroma-bumi/static/media/Feed3.858b486c15dff3558707.png",
+    "static/media/Butterscotch.png": "/aroma-bumi/static/media/Butterscotch.a20cff38cbd2720c1959.png",
+    "static/media/CaramelLatte.png": "/aroma-bumi/static/media/CaramelLatte.df04e7426d76ba0d42b3.png",
+    "static/media/Americano.png": "/aroma-bumi/static/media/Americano.f57bcb4dd98fc3299a4b.png",
+    "static/media/CafeLatte.png": "/aroma-bumi/static/media/CafeLatte.b9d41fa0fb9ee0b96572.png",
+    "static/media/ArenLatte.png": "/aroma-bumi/static/media/ArenLatte.bde39bd37d14d2ce6966.png",
+    "static/media/Capuccino.png": "/aroma-bumi/static/media/Capuccino.3ebc407963584013e411.png",
+    "index.html": "/aroma-bumi/index.html",
+    "main.4b2a4473.css.map": "/aroma-bumi/static/css/main.4b2a4473.css.map",
+    "main.62bb2be7.js.map": "/aroma-bumi/static/js/main.62bb2be7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b2a4473.css",
+    "static/js/main.62bb2be7.js"
+  ]
+}
