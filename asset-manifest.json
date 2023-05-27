@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/aroma-bumi/static/css/main.4b2a4473.css",
-    "main.js": "/aroma-bumi/static/js/main.62bb2be7.js",
+    "main.css": "/aroma-bumi/static/css/main.8892efe4.css",
+    "main.js": "/aroma-bumi/static/js/main.dc95ebb5.js",
     "static/media/WhoAreWe.jpg": "/aroma-bumi/static/media/WhoAreWe.108b1481a5043b8d4a99.jpg",
     "static/media/HangOutWithUs.jpg": "/aroma-bumi/static/media/HangOutWithUs.1641fcb965f94aec2c76.jpg",
     "static/media/CoffeHeader.png": "/aroma-bumi/static/media/CoffeHeader.eac4ee68d13de5fce759.png",
@@ -20,11 +20,11 @@
     "static/media/ArenLatte.png": "/aroma-bumi/static/media/ArenLatte.bde39bd37d14d2ce6966.png",
     "static/media/Capuccino.png": "/aroma-bumi/static/media/Capuccino.3ebc407963584013e411.png",
     "index.html": "/aroma-bumi/index.html",
-    "main.4b2a4473.css.map": "/aroma-bumi/static/css/main.4b2a4473.css.map",
-    "main.62bb2be7.js.map": "/aroma-bumi/static/js/main.62bb2be7.js.map"
+    "main.8892efe4.css.map": "/aroma-bumi/static/css/main.8892efe4.css.map",
+    "main.dc95ebb5.js.map": "/aroma-bumi/static/js/main.dc95ebb5.js.map"
   },
   "entrypoints": [
-    "static/css/main.4b2a4473.css",
-    "static/js/main.62bb2be7.js"
+    "static/css/main.8892efe4.css",
+    "static/js/main.dc95ebb5.js"
   ]
 }
